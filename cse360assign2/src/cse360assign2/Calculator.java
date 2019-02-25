@@ -41,7 +41,7 @@ public class Calculator
 		}
 	}
 	
-	public String getHistory () 
+	public String getHistory ()  
 	{
 		return "";   
 	}
