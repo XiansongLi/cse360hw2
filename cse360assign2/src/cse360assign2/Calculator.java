@@ -36,7 +36,7 @@ public class Calculator
 			total = 0;
 		}
 		else
-		{
+		{ 
 			total /= value; 
 		}
 	}
